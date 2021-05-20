@@ -1,0 +1,2 @@
+Σ ={a,b,X}
+S --> aa|bX|aXX, X-->ab|b
